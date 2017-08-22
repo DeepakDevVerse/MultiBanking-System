@@ -59,7 +59,7 @@
 						<input type="text" name="ahname" placeholder="Account Holder" title="Please enter Account Holder Name" required>
 					</div>
 					<div class="form-control"> 
-						<label class="header">Phone <span>*</span></label>
+						<label >Phone <span>*</span></label>
 						<input type="text" name="mnum" placeholder="Phone" title="Please enter your Phone No" required>
 					</div>
 					<div class="form-control"> 
